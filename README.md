@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @framosh
+- 👀 I’m web full stack using Java, XML, HTML, CSS, JavaScript, Php, MySQL, Maria DB and Android Studio developer.
+- 🌱 I’m currently developing HR system
+- 💞️ I’m looking to collaborate on web and android projects
+- 📫 How to reach me: federicoramos57@gmail.com or Skype user: framosh
